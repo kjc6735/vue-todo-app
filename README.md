@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # todoapp
+=======
+# todo app
+>>>>>>> 9e4cabe3b8baeedb424d256d41e896754c4869f7
 
 ## Project setup
 
