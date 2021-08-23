@@ -2,23 +2,18 @@
   <div id="menubar">
     <ul>
         <li>
-            오늘 할 일
+            <router-link to="/today">오늘 할 일</router-link>
         </li>
         <li>
-            재진이
+            <router-link to="/complete">완료 한 일</router-link>
         </li>
         <li>
-            병신
+            <router-link to="/today">몰라</router-link>
         </li>
         <li>
-            존나
+            <router-link to="/today">Go to Foo</router-link>
         </li>
-        <li>
-            깝치네
-        </li>
-        <li>
-            ㅋㅋㅋㅋ
-        </li>
+        
     </ul>
   </div>
 </template>

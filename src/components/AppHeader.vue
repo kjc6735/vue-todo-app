@@ -30,7 +30,12 @@
 
 <script>
 export default {
-    name:'AppHeader'
+    name:'AppHeader',
+    methods:{
+        showInfo(){
+            
+        }
+    }
 }
 </script>
 
